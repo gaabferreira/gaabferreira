@@ -22,19 +22,6 @@ Atualmente estou focado em fortalecer minha base de programação e desenvolver 
 
 ---
 
-### 🚀 Sobre mim
-
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 💻 Foco em **desenvolvimento de software**
-- 🐍 Estudando e desenvolvendo projetos com **Python**
-- 🤖 Interesse em **Inteligência Artificial**
-- ⚙️ Interesse em **automação de processos**
-- 📊 Experiência com automação e tratamento de dados
-- 📚 Atualmente fortalecendo minha base em **lógica, algoritmos e fundamentos da programação**
-- 🎯 Objetivo: crescer profissionalmente como desenvolvedor e construir soluções cada vez mais completas
-
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
