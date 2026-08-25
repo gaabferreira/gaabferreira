@@ -130,14 +130,14 @@ Estou sempre aberto a oportunidades, projetos e conexões na área de tecnologia
         <img 
             alt="E-mail" 
             title="E-mail" 
-            src="https://img.shields.io/badge/Email-gabriel.marcelinofe%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
     <a href="https://github.com/gaabferreira">
         <img 
             alt="GitHub" 
             title="GitHub" 
-            src="https://img.shields.io/badge/GitHub-gaabferreira-181717?style=for-the-badge&logo=github&logoColor=white"
+            src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
 </p>
