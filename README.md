@@ -126,6 +126,13 @@ Meu objetivo é construir uma base sólida antes de avançar para assuntos mais 
 Estou sempre aberto a oportunidades, projetos e conexões na área de tecnologia.
 
 <p align="left">
+    <a href="mailto:gabriel.marcelinofe@gmail.com">
+        <img 
+            alt="E-mail" 
+            title="E-mail" 
+            src="https://img.shields.io/badge/Email-gabriel.marcelinofe%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
     <a href="https://github.com/gaabferreira">
         <img 
             alt="GitHub" 
